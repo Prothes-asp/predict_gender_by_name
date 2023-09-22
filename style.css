@@ -2,6 +2,10 @@
 body {
   background-color: #0bceaf;
 }
+h2{
+  font-family : "Lobster";
+  color: lightgray;
+}
 .mainArea {
   font-family : "Lobster";
   background-color: #ffffff;
